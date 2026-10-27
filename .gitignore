@@ -1,0 +1,17 @@
+/models/
+/utopia-lite/data/
+/utopia-lite/logs/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.pem
+*.key
+*.p12
+*.pfx
+/MANIFEST.sha256
